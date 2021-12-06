@@ -1,0 +1,13 @@
+{
+	"clientId":"<clientId>",
+	"client_secret":"<clientSecret>",
+	"scopes":"<oauth-scopes-to-use>",
+	"tokenUrl":"https://cloud.uipath.com/identity_/connect/token",
+	"baseUrl":"https://cloud.uipath.com/<accountName>/<tenantName>/orchestrator_/",
+		
+	"folderName":"<targetFolder>",
+	"versionMask":"1.0.*",
+	"processPackageIdentifier":"<HelloWorld>",
+	"testPackageIdentifier":"<HelloWorld_Tests>",
+	"testSetName":"<TestSetNameToCreate>"
+}
